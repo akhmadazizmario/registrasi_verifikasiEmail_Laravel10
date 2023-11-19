@@ -33,13 +33,13 @@ setting environtment :
 
 mailtrap: 
 
-MAIL_MAILER=smtp
-MAIL_HOST=sandbox.smtp.mailtrap.io
-MAIL_PORT=2525
-MAIL_USERNAME=username di mailtrap.io
-MAIL_PASSWORD=password di mailtrap.io
-MAIL_ENCRYPTION=null
-MAIL_FROM_ADDRESS="namaemailkamu@gmail.com"
+MAIL_MAILER=smtp<br>
+MAIL_HOST=sandbox.smtp.mailtrap.io<br>
+MAIL_PORT=2525<br>
+MAIL_USERNAME=username di mailtrap.io<br>
+MAIL_PASSWORD=password di mailtrap.io<br>
+MAIL_ENCRYPTION=null<br>
+MAIL_FROM_ADDRESS="namaemailkamu@gmail.com"<br>
 MAIL_FROM_NAME="username"
 
 
